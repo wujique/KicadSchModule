@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 10
 Title ""
 Date ""
 Rev ""
@@ -48,5 +48,23 @@ S 7000 1100 600  600
 U 5EC0A4CF
 F0 "RS232_SP3232" 50
 F1 "RS232_SP3232.sch" 50
+$EndSheet
+$Sheet
+S 8200 1150 500  450 
+U 5EC0DDF6
+F0 "can_vp230" 50
+F1 "can_vp230.sch" 50
+$EndSheet
+$Sheet
+S 9100 1150 500  450 
+U 5EC198B4
+F0 "RS3485" 50
+F1 "RS3485.sch" 50
+$EndSheet
+$Sheet
+S 10200 1150 550  500 
+U 5EC521B6
+F0 "USB2514" 50
+F1 "USB2514.sch" 50
 $EndSheet
 $EndSCHEMATC
